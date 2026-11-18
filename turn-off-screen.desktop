@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Turn off screen
+GenericName=Turn off screen
+Comment=Turn off display after 2 seconds
+Exec=turn-off-screen
+Icon=turn-off-screen
+Terminal=false
+Categories=System;Utility;
+Keywords=screen;display;monitor;turn off;dpms;sleep;power;
+StartupNotify=false
